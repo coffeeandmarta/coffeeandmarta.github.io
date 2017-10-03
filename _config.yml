@@ -2,13 +2,14 @@
 gems:
   - jemoji
   - jekyll-paginate
-
+theme: mediator
 # Site settings
 title: "Mediator"
 description: > # this means to ignore newlines until "email:"
    A Jekyll theme - Medium inspired
 
 email: a-mail@mail.mail
+
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
